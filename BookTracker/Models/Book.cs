@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace BookTracker.Models
+﻿namespace BookTracker.Models
 {
     public class Book
     {
